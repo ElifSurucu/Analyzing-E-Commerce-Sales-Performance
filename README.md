@@ -139,12 +139,15 @@ ________________________________________
 
 
 
+
 # Summary of Descriptive Questions and Inferential Hypotheses
 
 **1. Revenue and Average Order Value by Product Category**
 
 - Descriptive Analysis: The analysis showed how revenue and average order values vary across different product categories. Categories such as "Blouse" and "Bottom" demonstrated higher average order values compared to others.
 - Inferential Hypothesis: ANOVA was used to determine if there were significant differences in average revenue across product categories. The results revealed a significant difference in average revenue, meaning certain categories outperform others in terms of revenue generation.
+  
+![productcate](https://github.com/user-attachments/assets/30ced5a8-93c9-4f23-9a65-88e86e6db851)
 
 **2. Monthly and Seasonal Revenue Trends**
 
@@ -155,11 +158,16 @@ ________________________________________
 
 - Descriptive Analysis: The data revealed that orders with promotions generally had higher quantity sold, indicating that promotions lead to an increase in order volume.
 - Inferential Hypothesis: The Mann-Whitney U Test was used to test whether promotions lead to significantly higher sales quantities. The results showed that promotions significantly increase the quantity sold, validating their impact.
+  
+![pronopro](https://github.com/user-attachments/assets/72751b3e-4023-4606-ac2f-655cbca40ccc)
 
 **4. Shipping Location and Service Level**
 
 - Descriptive Analysis: Sales data was segmented by ship-service-level and shipping location (e.g., states and cities), highlighting geographical variations in shipping preferences and cancellations.
 - Inferential Hypothesis: Chi-Square Test was conducted to assess the relationship between ship-service-level and cancellation rates. The results indicated no significant relationship (P-value = 1.000), suggesting that shipping service level does not significantly affect cancellation rates.
+
+  ![shipstates](https://github.com/user-attachments/assets/79627905-4cb5-4ab9-8d85-c89a5275a0b9)
+
 
 **5. Promotions and Order Cancellations**
 
@@ -190,6 +198,8 @@ ________________________________________
 
 - Descriptive Analysis: Cancellation rates were analyzed by ship-city, identifying regional differences in customer cancellations.
 - Inferential Hypothesis: The Chi-Square Test was applied to explore the association between ship-city and cancellation rates. The results indicated a significant association, suggesting that cancellation rates differ based on the city.
+![cancelationrate](https://github.com/user-attachments/assets/f975ac3c-b1c1-4111-bfeb-3695485868d5)
+
 
 ## Key Insights:
 - Revenue Differences: There are significant differences in revenue across product categories, seasons, and regions.
