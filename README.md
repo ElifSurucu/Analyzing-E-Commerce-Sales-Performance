@@ -3,7 +3,7 @@
 
 # Analyzing-E-Commerce-Sales-Performance
 The project aims to analyze e-commerce sales data to uncover insights into product categories, seasonal trends, and customer behavior. These insights will assist businesses in developing more effective marketing strategies, improving sales performance, and enhancing decision-making processes.
-
+- The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data/data): E-Commerce Sales Dataset.
 ________________________________________
 # **Project Overview**
 ________________________________________
